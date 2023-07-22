@@ -1,5 +1,3 @@
-Certainly! Below is the guide to using Jupyter Notebook in Markdown format:
-
 # A Comprehensive Guide to Using Jupyter Notebook
 
 ![Google Colab](images/notebook.png)

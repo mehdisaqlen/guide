@@ -46,7 +46,7 @@
 ## Installing Libraries
 
 - Most common Python libraries come pre-installed in Colab.
-- To install additional libraries, use the command `!pip install library_name` in a code cell.
+- To install additional libraries, use the command `pip install library_name` in a code cell.
 
 ## Using Markdown and Text Cells
 
